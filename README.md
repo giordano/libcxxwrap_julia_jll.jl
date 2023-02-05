@@ -17,7 +17,11 @@ The tarballs for `libcxxwrap_julia_jll.jl` have been built from these sources:
 
 `libcxxwrap_julia_jll.jl` is available for the following platforms:
 
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.10.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.10.0`)
 * `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.6.3, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.6.3`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.7.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.7.0`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.8.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.8.0`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.9.0, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.9.0`)
 
 ## Products
 

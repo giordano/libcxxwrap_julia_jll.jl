@@ -1,6 +1,17 @@
 [[libcxxwrap_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
+git-tree-sha1 = "dab240b8cb261c9e3e76fe647049d0086e28154e"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[libcxxwrap_julia.download]]
+    sha256 = "4bd70ba2d28b70a6d337b7be5f787bf045e42de2b956d16114ace6f7ffced9b8"
+    url = "https://github.com/giordano/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.9.3+1/libcxxwrap_julia.v0.9.3.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[libcxxwrap_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
 git-tree-sha1 = "265f706ced51e6c6251ffb6fa49e165308c67758"
 julia_version = "1.6.3"
 libc = "glibc"
@@ -9,3 +20,36 @@ os = "linux"
     [[libcxxwrap_julia.download]]
     sha256 = "61b48a6eac5444a2c5986cbd29a404e39b36b3483bcdc105a52597ac69dad2e8"
     url = "https://github.com/giordano/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.9.3+1/libcxxwrap_julia.v0.9.3.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[libcxxwrap_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38ab3dff6fbc577fac15e2efb1ca0f48d9f9e566"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[libcxxwrap_julia.download]]
+    sha256 = "fa89c1ff4ef62444906a56c9d881029db4a241316bced7c7a584f3d9aada3920"
+    url = "https://github.com/giordano/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.9.3+1/libcxxwrap_julia.v0.9.3.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[libcxxwrap_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62466abd479ab58cedef7951fc027fbd1c4e54d1"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[libcxxwrap_julia.download]]
+    sha256 = "2656ae4b1acff5e8ebd9266fd7f8548e07843433ca4093cb2719be01953b8c71"
+    url = "https://github.com/giordano/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.9.3+1/libcxxwrap_julia.v0.9.3.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+[[libcxxwrap_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca98243de75f98492585a787ca382ee16ee2e2a7"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[libcxxwrap_julia.download]]
+    sha256 = "28cc766e0d3eb121a74baccff0cc47b02947f44ddd17118af53c7faedc919647"
+    url = "https://github.com/giordano/libcxxwrap_julia_jll.jl/releases/download/libcxxwrap_julia-v0.9.3+1/libcxxwrap_julia.v0.9.3.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
